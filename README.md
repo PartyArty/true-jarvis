@@ -1,4 +1,4 @@
-# True Jarvis — a voice agent with zero dead air and a frontier-LLM brain
+# True Jarvis — a voice agent with zero dead air, delays in response and with a frontier-LLM brain
 
 **No delays. No awkward silences. No waiting while "it thinks." A live spoken assistant that answers the instant you stop talking — with the intelligence of the most advanced models available behind every real answer.**
 
