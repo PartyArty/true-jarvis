@@ -1,10 +1,10 @@
-# True Jarvis — a voice agent with zero dead air, delays in response and with a frontier-LLM brain
+# True Jarvis - a voice agent with zero dead air, delays in response and with a frontier-LLM brain
 
-**No delays. No awkward silences. No waiting while "it thinks." A live spoken assistant that answers the instant you stop talking — with the intelligence of the most advanced models available behind every real answer.**
+**No delays. No awkward silences. No waiting while "it thinks." A live spoken assistant that answers the instant you stop talking, with the intelligence of the most advanced models available behind every real answer.**
 
-That combination is supposed to be impossible. Realtime voice models answer instantly but are shallow; frontier reasoning models are brilliant but take seconds to start talking — and seconds of dead air kill a spoken conversation. Every voice assistant you've tried picked one side of that trade-off.
+That combination is supposed to be impossible. Realtime voice models answer instantly but are shallow; frontier reasoning models are brilliant but take seconds to start talking, and seconds of dead air kill a spoken conversation. Every voice assistant you've tried picked one side of that trade-off.
 
-This build refuses the trade-off. You talk over Discord push-to-talk, from any device. Ask something simple — instant answer, natural voice, like a person on a call. Give it a real task — it says *"hold on, I'll take a look"*, keeps chatting with you, and comes back with the result moments later, in voice **and** in text. It feels like one continuous mind. Under the hood it's two very different models glued into a single persona — and this repo is the blueprint for the glue.
+This build refuses the trade-off. You talk over Discord push-to-talk, from any device. Ask something simple - instant answer, natural voice, like a person on a call. Give it a real task, it says *"hold on, I'll take a look"*, keeps chatting with you, and comes back with the result moments later, in voice **and** in text. It feels like one continuous mind. Under the hood it's two very different models glued into a single persona, and this repo is the blueprint for the glue.
 
 Built on [OpenClaw](https://openclaw.ai). Bring your own API keys, your own tools, and your own name for it (mine is called Isaac, after Asimov).
 
